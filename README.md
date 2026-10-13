@@ -54,4 +54,4 @@ What you would build with another month, and who you would want to test it with.
 
 ## License
 
-Code under the [Apache License 2.0](LICENSE). You keep the rights to your work; the license lets others learn from it and build on it.
+Code under the [MIT License](LICENSE): put your team name on the copyright line. You keep the rights to your work; the license lets others learn from it and build on it.
